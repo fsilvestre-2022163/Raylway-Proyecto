@@ -10,6 +10,5 @@ public class NameController {
 
     @GetMapping("/name")
     public String getName() {
-        return "Fréderic Silvestre"; // Reemplaza con tu nombre real
-    }
+        return "Fréderic Silvestre";   }
 }
